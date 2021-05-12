@@ -1,0 +1,15 @@
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/RunLengthEncoding.deps.json
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/RunLengthEncoding.runtimeconfig.json
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/RunLengthEncoding.runtimeconfig.dev.json
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/RunLengthEncoding.dll
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/ref/RunLengthEncoding.dll
+/Users/timtieng/Github/CSharp/RunLengthEncoding/bin/Debug/net5.0/RunLengthEncoding.pdb
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.csprojAssemblyReference.cache
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.AssemblyInfoInputs.cache
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.AssemblyInfo.cs
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.csproj.CoreCompileInputs.cache
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.dll
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/ref/RunLengthEncoding.dll
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.pdb
+/Users/timtieng/Github/CSharp/RunLengthEncoding/obj/Debug/net5.0/RunLengthEncoding.genruntimeconfig.cache
