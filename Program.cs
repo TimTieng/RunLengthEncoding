@@ -21,7 +21,7 @@ namespace RunLengthEncoding {
                 char currentChar = str[i];
                 char previousChar = str[i-1];
 
-                // Evaluate if they are not equal or the currentRunCount == 9
+                // Evaluate if they are not equal or the currentRunCount == 9 to conduct split naming
                 if ((currentChar != previousChar) || (currentRunCount == 9)) {
                     // Append the current runcount to the encodedString instance - Casting Required
                     encodedString.Append(currentRunCount.ToString());
@@ -30,7 +30,6 @@ namespace RunLengthEncoding {
                     // Reset count because the length is over 10 for the current char
                     currentRunCount = 0;
                 }
-
                 // increment run count for next char
                 currentRunCount++;
             }
